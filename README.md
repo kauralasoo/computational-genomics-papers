@@ -9,7 +9,7 @@
 
 ## Regulatory genetic variation
 
- - Albert, Frank W., and Leonid Kruglyak. "The role of regulatory variation in complex traits and disease." _Nature Reviews Genetics_ 16.4 (2015): 197. 
+ - Albert, Frank W., and Leonid Kruglyak. "[The role of regulatory variation in complex traits and disease.](http://dx.doi.org/10.1038/nrg3891)" _Nature Reviews Genetics_ 16.4 (2015): 197. 
 
 ## General advice
 
@@ -18,8 +18,8 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE2ODg2MTksLTE5MzIyNDEyMTQsOD
-M5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3MTcxMDU5NjcsNTQ0NTc4
-MDE0LDEwNzcwNTA4MTcsLTE0MTAxNjA1NDksLTE1MDIxMjM1Mj
-ZdfQ==
+eyJoaXN0b3J5IjpbMTIzMjc4MDM2OSwtMTkzMjI0MTIxNCw4Mz
+k3ODQ3ODAsLTIwNTg1ODE2MjcsMTcxNzEwNTk2Nyw1NDQ1Nzgw
+MTQsMTA3NzA1MDgxNywtMTQxMDE2MDU0OSwtMTUwMjEyMzUyNl
+19
 -->

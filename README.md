@@ -10,7 +10,7 @@
 ## Data normalisation
 
  - Wagner, Günter P., Koryu Kin, and Vincent J. Lynch. "[Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples](https://doi.org/10.1007/s12064-012-0162-3)." _Theory in biosciences_ 131.4 (2012): 281-285. 
- Formal explanation of why **T**ranscripts **P**er **M**illion (**TPM**) is preferable to Reads Per Kilobase per Millions of Reads (RPKM) when normalising sequencing read counts. See also [this blog post](https://www.rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/) for less formal explanation.
+ Formal explanation of why **T**ranscripts **P**er **M**illion (**TPM**) is preferable to **R**eads **P**er **K**ilobase per **M**illion of maeads (RPKM) when normalising sequencing read counts. See also [this blog post](https://www.rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/) for less formal explanation.
 
 ## Regulatory genetic variation
 
@@ -24,9 +24,8 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ0MjU1OTgsLTE5MjA0MjMzMjUsLT
-U0Mjk0NTk0NCwxMjMyNzgwMzY5LC0xOTMyMjQxMjE0LDgzOTc4
-NDc4MCwtMjA1ODU4MTYyNywxNzE3MTA1OTY3LDU0NDU3ODAxNC
-wxMDc3MDUwODE3LC0xNDEwMTYwNTQ5LC0xNTAyMTIzNTI2XX0=
-
+eyJoaXN0b3J5IjpbNjA4NjM4MTUzLC0xOTIwNDIzMzI1LC01ND
+I5NDU5NDQsMTIzMjc4MDM2OSwtMTkzMjI0MTIxNCw4Mzk3ODQ3
+ODAsLTIwNTg1ODE2MjcsMTcxNzEwNTk2Nyw1NDQ1NzgwMTQsMT
+A3NzA1MDgxNywtMTQxMDE2MDU0OSwtMTUwMjEyMzUyNl19
 -->

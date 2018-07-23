@@ -10,6 +10,7 @@
 ## Regulatory genetic variation
 
  - Albert, Frank W., and Leonid Kruglyak. "[The role of regulatory variation in complex traits and disease.](http://dx.doi.org/10.1038/nrg3891)" _Nature Reviews Genetics_ 16.4 (2015): 197. 
+ - Park, Eddie, et al. "[The expanding landscape of alternative splicing variation in human populations.](http://dx.doi.org/10.1016/j.ajhg.2017.11.002)" _The American Journal of Human Genetics_ 102.1 (2018): 11-26.
 
 ## General advice
 
@@ -18,8 +19,8 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjc4MDM2OSwtMTkzMjI0MTIxNCw4Mz
-k3ODQ3ODAsLTIwNTg1ODE2MjcsMTcxNzEwNTk2Nyw1NDQ1Nzgw
-MTQsMTA3NzA1MDgxNywtMTQxMDE2MDU0OSwtMTUwMjEyMzUyNl
-19
+eyJoaXN0b3J5IjpbLTU0Mjk0NTk0NCwxMjMyNzgwMzY5LC0xOT
+MyMjQxMjE0LDgzOTc4NDc4MCwtMjA1ODU4MTYyNywxNzE3MTA1
+OTY3LDU0NDU3ODAxNCwxMDc3MDUwODE3LC0xNDEwMTYwNTQ5LC
+0xNTAyMTIzNTI2XX0=
 -->

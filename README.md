@@ -8,6 +8,7 @@
 Detect mislabeled individuals between VCF and BAM files.
 
 ## Allelic mapping bias
+
  - Panousis, Nikolaos I., et al. "[Allelic mapping bias in RNA-sequencing is not a major confounder in eQTL studies.](https://doi.org/10.1186/s13059-014-0467-2)" _Genome biology_ 15.9 (2014): 467.
  - Castel, Stephane E., et al. "[Tools and best practices for data processing in allelic expression analysis.](http://dx.doi.org/10.1186/s13059-015-0762-6)" _Genome biology_16.1 (2015): 195.
 
@@ -28,7 +29,7 @@ Detect mislabeled individuals between VCF and BAM files.
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTYzMzk5MywtMTM1NjI3NDc1OCwtMT
+eyJoaXN0b3J5IjpbMTIxNTU3MTY3NSwtMTM1NjI3NDc1OCwtMT
 kyMDQyMzMyNSwtNTQyOTQ1OTQ0LDEyMzI3ODAzNjksLTE5MzIy
 NDEyMTQsODM5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3MTcxMDU5Nj
 csNTQ0NTc4MDE0LDEwNzcwNTA4MTcsLTE0MTAxNjA1NDksLTE1

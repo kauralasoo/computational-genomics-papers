@@ -7,6 +7,10 @@
  - Panousis, Nikolaos I., et al. "[Allelic mapping bias in RNA-sequencing is not a major confounder in eQTL studies.](https://doi.org/10.1186/s13059-014-0467-2)" _Genome biology_ 15.9 (2014): 467.
  - Castel, Stephane E., et al. "[Tools and best practices for data processing in allelic expression analysis.](http://dx.doi.org/10.1186/s13059-015-0762-6)" _Genome biology_16.1 (2015): 195.
 
+## Data normalisation
+
+ - Wagner, Günter P., Koryu Kin, and Vincent J. Lynch. "Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples." _Theory in biosciences_ 131.4 (2012): 281-285.
+
 ## Regulatory genetic variation
 
  - Albert, Frank W., and Leonid Kruglyak. "[The role of regulatory variation in complex traits and disease.](http://dx.doi.org/10.1038/nrg3891)" _Nature Reviews Genetics_ 16.4 (2015): 197. 
@@ -19,8 +23,8 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mjk0NTk0NCwxMjMyNzgwMzY5LC0xOT
-MyMjQxMjE0LDgzOTc4NDc4MCwtMjA1ODU4MTYyNywxNzE3MTA1
-OTY3LDU0NDU3ODAxNCwxMDc3MDUwODE3LC0xNDEwMTYwNTQ5LC
-0xNTAyMTIzNTI2XX0=
+eyJoaXN0b3J5IjpbOTQ5NDQ3NTQ5LC01NDI5NDU5NDQsMTIzMj
+c4MDM2OSwtMTkzMjI0MTIxNCw4Mzk3ODQ3ODAsLTIwNTg1ODE2
+MjcsMTcxNzEwNTk2Nyw1NDQ1NzgwMTQsMTA3NzA1MDgxNywtMT
+QxMDE2MDU0OSwtMTUwMjEyMzUyNl19
 -->

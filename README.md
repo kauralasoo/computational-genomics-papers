@@ -15,7 +15,14 @@ Detect mislabeled individuals between VCF and BAM files.
 ## Data normalisation
 
  - Wagner, Günter P., Koryu Kin, and Vincent J. Lynch. "[Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples](https://doi.org/10.1007/s12064-012-0162-3)." _Theory in biosciences_ 131.4 (2012): 281-285. 
- Formal explanation of why **T**ranscripts **P**er **M**illion (**TPM**) is preferable to **R**eads **P**er **K**ilobase per **M**illion of mapped reads (**RPKM**) when normalising sequencing read counts. See also [this blog post](https://www.rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/) for less formal explanation.
+ 
+ > Formal explanation of why **T**ranscripts **P**er **M**illion
+> (**TPM**) is preferable to **R**eads **P**er **K**ilobase per
+> **M**illion of mapped reads (**RPKM**) when normalising sequencing read counts. See also [this blog
+> post](https://www.rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/)
+> for less formal explanation
+
+.
 
 ## Regulatory genetic variation
 
@@ -34,9 +41,9 @@ The original ATAC-seq paper.
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODA4MDE1NywxMjE1NTcxNjc1LC0xMz
-U2Mjc0NzU4LC0xOTIwNDIzMzI1LC01NDI5NDU5NDQsMTIzMjc4
-MDM2OSwtMTkzMjI0MTIxNCw4Mzk3ODQ3ODAsLTIwNTg1ODE2Mj
-csMTcxNzEwNTk2Nyw1NDQ1NzgwMTQsMTA3NzA1MDgxNywtMTQx
-MDE2MDU0OSwtMTUwMjEyMzUyNl19
+eyJoaXN0b3J5IjpbLTE1MjYyNzAxMTMsLTcxODA4MDE1NywxMj
+E1NTcxNjc1LC0xMzU2Mjc0NzU4LC0xOTIwNDIzMzI1LC01NDI5
+NDU5NDQsMTIzMjc4MDM2OSwtMTkzMjI0MTIxNCw4Mzk3ODQ3OD
+AsLTIwNTg1ODE2MjcsMTcxNzEwNTk2Nyw1NDQ1NzgwMTQsMTA3
+NzA1MDgxNywtMTQxMDE2MDU0OSwtMTUwMjEyMzUyNl19
 -->

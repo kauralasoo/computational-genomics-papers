@@ -25,7 +25,7 @@ Detect mislabeled individuals between VCF and BAM files.
 ## Chromatin accessibility
 
  - Buenrostro, Jason D., et al. "T[ransposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position.](https://doi.org/10.1038/nmeth.2688)"  _Nature methods_  10.12 (2013): 1213.
-The original 
+The original ATAC-seq paper.
 
 ## General advice
 
@@ -34,9 +34,9 @@ The original
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM3MTc3MjYsMTIxNTU3MTY3NSwtMT
-M1NjI3NDc1OCwtMTkyMDQyMzMyNSwtNTQyOTQ1OTQ0LDEyMzI3
-ODAzNjksLTE5MzIyNDEyMTQsODM5Nzg0NzgwLC0yMDU4NTgxNj
-I3LDE3MTcxMDU5NjcsNTQ0NTc4MDE0LDEwNzcwNTA4MTcsLTE0
-MTAxNjA1NDksLTE1MDIxMjM1MjZdfQ==
+eyJoaXN0b3J5IjpbLTcxODA4MDE1NywxMjE1NTcxNjc1LC0xMz
+U2Mjc0NzU4LC0xOTIwNDIzMzI1LC01NDI5NDU5NDQsMTIzMjc4
+MDM2OSwtMTkzMjI0MTIxNCw4Mzk3ODQ3ODAsLTIwNTg1ODE2Mj
+csMTcxNzEwNTk2Nyw1NDQ1NzgwMTQsMTA3NzA1MDgxNywtMTQx
+MDE2MDU0OSwtMTUwMjEyMzUyNl19
 -->

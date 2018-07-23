@@ -22,6 +22,12 @@ Detect mislabeled individuals between VCF and BAM files.
  - Albert, Frank W., and Leonid Kruglyak. "[The role of regulatory variation in complex traits and disease.](http://dx.doi.org/10.1038/nrg3891)" _Nature Reviews Genetics_ 16.4 (2015): 197. 
  - Park, Eddie, et al. "[The expanding landscape of alternative splicing variation in human populations.](http://dx.doi.org/10.1016/j.ajhg.2017.11.002)" _The American Journal of Human Genetics_ 102.1 (2018): 11-26.
 
+## Chromatin accessibility
+
+ - Buenrostro, Jason D., et al. "Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position."  _Nature methods_  10.12 (2013): 1213.
+
+APA
+
 ## General advice
 
  - Mensh, Brett, and Konrad Kording. "[Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005830)." _PLoS computational biology_ 13.9 (2017): e1005619.
@@ -29,9 +35,9 @@ Detect mislabeled individuals between VCF and BAM files.
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTU3MTY3NSwtMTM1NjI3NDc1OCwtMT
-kyMDQyMzMyNSwtNTQyOTQ1OTQ0LDEyMzI3ODAzNjksLTE5MzIy
-NDEyMTQsODM5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3MTcxMDU5Nj
-csNTQ0NTc4MDE0LDEwNzcwNTA4MTcsLTE0MTAxNjA1NDksLTE1
-MDIxMjM1MjZdfQ==
+eyJoaXN0b3J5IjpbNjUzMzMzNDM1LDEyMTU1NzE2NzUsLTEzNT
+YyNzQ3NTgsLTE5MjA0MjMzMjUsLTU0Mjk0NTk0NCwxMjMyNzgw
+MzY5LC0xOTMyMjQxMjE0LDgzOTc4NDc4MCwtMjA1ODU4MTYyNy
+wxNzE3MTA1OTY3LDU0NDU3ODAxNCwxMDc3MDUwODE3LC0xNDEw
+MTYwNTQ5LC0xNTAyMTIzNTI2XX0=
 -->

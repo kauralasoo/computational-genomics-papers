@@ -4,7 +4,7 @@
 
  - AC't Hoen, Peter, et al. "[Reproducibility of high-throughput mRNA and small RNA sequencing across laboratories](http://dx.doi.org/10.1038/nbt.2702)." _Nature biotechnology_ 31.11 (2013): 1015.
  - Leek, Jeffrey T., et al. "[Tackling the widespread and critical impact of batch effects in high-throughput data.](http://dx.doi.org/10.1038/nrg2825)" _Nature Reviews Genetics_ 11.10 (2010): 733.
- - Panousis, Nikolaos I., et al. "Allelic mapping bias in RNA-sequencing is not a major confounder in eQTL studies." _Genome biology_ 15.9 (2014): 467.
+ - Panousis, Nikolaos I., et al. "[Allelic mapping bias in RNA-sequencing is not a major confounder in eQTL studies.](https://doi.org/10.1186/s13059-014-0467-2)" _Genome biology_ 15.9 (2014): 467.
 
 ## General advice
 
@@ -13,7 +13,7 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTQ3NjA1MywtMjA1ODU4MTYyNywxNz
-E3MTA1OTY3LDU0NDU3ODAxNCwxMDc3MDUwODE3LC0xNDEwMTYw
-NTQ5LC0xNTAyMTIzNTI2XX0=
+eyJoaXN0b3J5IjpbODM5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3MT
+cxMDU5NjcsNTQ0NTc4MDE0LDEwNzcwNTA4MTcsLTE0MTAxNjA1
+NDksLTE1MDIxMjM1MjZdfQ==
 -->

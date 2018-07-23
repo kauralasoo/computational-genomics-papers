@@ -10,7 +10,7 @@
 ## Data normalisation
 
  - Wagner, Günter P., Koryu Kin, and Vincent J. Lynch. "[Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples](https://doi.org/10.1007/s12064-012-0162-3)." _Theory in biosciences_ 131.4 (2012): 281-285. 
- This pap 
+ This paper explains why Transcripts Per Million (TPM) is better than Reads per Kilobase per Millions of Reads (RPKM) when formalising  
 
 ## Regulatory genetic variation
 
@@ -24,7 +24,7 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYzMTcwOTUsLTU0Mjk0NTk0NCwxMj
+eyJoaXN0b3J5IjpbLTE4MjY5NjgyMDUsLTU0Mjk0NTk0NCwxMj
 MyNzgwMzY5LC0xOTMyMjQxMjE0LDgzOTc4NDc4MCwtMjA1ODU4
 MTYyNywxNzE3MTA1OTY3LDU0NDU3ODAxNCwxMDc3MDUwODE3LC
 0xNDEwMTYwNTQ5LC0xNTAyMTIzNTI2XX0=

@@ -4,10 +4,12 @@
 
  - AC't Hoen, Peter, et al. "[Reproducibility of high-throughput mRNA and small RNA sequencing across laboratories](http://dx.doi.org/10.1038/nbt.2702)." _Nature biotechnology_ 31.11 (2013): 1015.
  - Leek, Jeffrey T., et al. "[Tackling the widespread and critical impact of batch effects in high-throughput data.](http://dx.doi.org/10.1038/nrg2825)" _Nature Reviews Genetics_ 11.10 (2010): 733.
- - Panousis, Nikolaos I., et al. "[Allelic mapping bias in RNA-sequencing is not a major confounder in eQTL studies.](https://doi.org/10.1186/s13059-014-0467-2)" _Genome biology_ 15.9 (2014): 467.
- - Castel, Stephane E., et al. "[Tools and best practices for data processing in allelic expression analysis.](http://dx.doi.org/10.1186/s13059-015-0762-6)" _Genome biology_16.1 (2015): 195.
  - Fort, Alexandre, et al. "[MBV: a method to solve sample mislabeling and detect technical bias in large combined genotype and sequencing assay datasets.](https://doi.org/10.1093/bioinformatics/btx074)" _Bioinformatics_33.12 (2017): 1895-1897.
 Detect mislabeled individuals between VCF and BAM files.
+
+## Allelic mapping bias
+ - Panousis, Nikolaos I., et al. "[Allelic mapping bias in RNA-sequencing is not a major confounder in eQTL studies.](https://doi.org/10.1186/s13059-014-0467-2)" _Genome biology_ 15.9 (2014): 467.
+ - Castel, Stephane E., et al. "[Tools and best practices for data processing in allelic expression analysis.](http://dx.doi.org/10.1186/s13059-015-0762-6)" _Genome biology_16.1 (2015): 195.
 
 ## Data normalisation
 
@@ -26,9 +28,9 @@ Detect mislabeled individuals between VCF and BAM files.
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM0NjU4NjIsLTEzNTYyNzQ3NTgsLT
-E5MjA0MjMzMjUsLTU0Mjk0NTk0NCwxMjMyNzgwMzY5LC0xOTMy
-MjQxMjE0LDgzOTc4NDc4MCwtMjA1ODU4MTYyNywxNzE3MTA1OT
-Y3LDU0NDU3ODAxNCwxMDc3MDUwODE3LC0xNDEwMTYwNTQ5LC0x
-NTAyMTIzNTI2XX0=
+eyJoaXN0b3J5IjpbMTkyNTYzMzk5MywtMTM1NjI3NDc1OCwtMT
+kyMDQyMzMyNSwtNTQyOTQ1OTQ0LDEyMzI3ODAzNjksLTE5MzIy
+NDEyMTQsODM5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3MTcxMDU5Nj
+csNTQ0NTc4MDE0LDEwNzcwNTA4MTcsLTE0MTAxNjA1NDksLTE1
+MDIxMjM1MjZdfQ==
 -->

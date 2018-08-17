@@ -31,6 +31,7 @@
 
 ## Chromatin accessibility
 
+ - 
  - Buenrostro, Jason D., et al. "T[ransposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position.](https://doi.org/10.1038/nmeth.2688)"  _Nature methods_  10.12 (2013): 1213.
 > The original ATAC-seq paper.
 
@@ -41,10 +42,10 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzI4NDc3MywxNzAxMTY5OTgxLC03MT
-gwODAxNTcsMTIxNTU3MTY3NSwtMTM1NjI3NDc1OCwtMTkyMDQy
-MzMyNSwtNTQyOTQ1OTQ0LDEyMzI3ODAzNjksLTE5MzIyNDEyMT
-QsODM5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3MTcxMDU5NjcsNTQ0
-NTc4MDE0LDEwNzcwNTA4MTcsLTE0MTAxNjA1NDksLTE1MDIxMj
-M1MjZdfQ==
+eyJoaXN0b3J5IjpbLTEzNDEwMzQ2MDgsLTU0MzI4NDc3MywxNz
+AxMTY5OTgxLC03MTgwODAxNTcsMTIxNTU3MTY3NSwtMTM1NjI3
+NDc1OCwtMTkyMDQyMzMyNSwtNTQyOTQ1OTQ0LDEyMzI3ODAzNj
+ksLTE5MzIyNDEyMTQsODM5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3
+MTcxMDU5NjcsNTQ0NTc4MDE0LDEwNzcwNTA4MTcsLTE0MTAxNj
+A1NDksLTE1MDIxMjM1MjZdfQ==
 -->

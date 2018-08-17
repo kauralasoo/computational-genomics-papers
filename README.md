@@ -40,12 +40,13 @@
  - Mensh, Brett, and Konrad Kording. "[Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005830)." _PLoS computational biology_ 13.9 (2017): e1005619.
  - Wilson, Greg, et al. "[Good enough practices in scientific computing.](http://dx.doi.org/10.1371/journal.pcbi.1005510)" _PLoS computational biology_ 13.6 (2017): e1005510.
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
+ - Noble, William Stafford. "[A quick guide to organizing computational biology projects.](https://doi.org/10.1371/journal.pcbi.1000424)" _PLoS computational biology_5.7 (2009): e1000424.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTU0MDMxMCwtNTQzMjg0NzczLDE3MD
-ExNjk5ODEsLTcxODA4MDE1NywxMjE1NTcxNjc1LC0xMzU2Mjc0
-NzU4LC0xOTIwNDIzMzI1LC01NDI5NDU5NDQsMTIzMjc4MDM2OS
-wtMTkzMjI0MTIxNCw4Mzk3ODQ3ODAsLTIwNTg1ODE2MjcsMTcx
-NzEwNTk2Nyw1NDQ1NzgwMTQsMTA3NzA1MDgxNywtMTQxMDE2MD
-U0OSwtMTUwMjEyMzUyNl19
+eyJoaXN0b3J5IjpbLTk0ODc2ODMyNSwtNTA1NTQwMzEwLC01ND
+MyODQ3NzMsMTcwMTE2OTk4MSwtNzE4MDgwMTU3LDEyMTU1NzE2
+NzUsLTEzNTYyNzQ3NTgsLTE5MjA0MjMzMjUsLTU0Mjk0NTk0NC
+wxMjMyNzgwMzY5LC0xOTMyMjQxMjE0LDgzOTc4NDc4MCwtMjA1
+ODU4MTYyNywxNzE3MTA1OTY3LDU0NDU3ODAxNCwxMDc3MDUwOD
+E3LC0xNDEwMTYwNTQ5LC0xNTAyMTIzNTI2XX0=
 -->

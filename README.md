@@ -31,8 +31,8 @@
 
 ## Chromatin accessibility
 
- - 
- - Buenrostro, Jason D., et al. "T[ransposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position.](https://doi.org/10.1038/nmeth.2688)"  _Nature methods_  10.12 (2013): 1213.
+ - Degner, Jacob F., et al. "DNase I sensitivity QTLs are a major determinant of human expression variation." _Nature_ 482.7385 (2012): 390.
+ - Buenrostro, Jason D., et al. "[Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position.](https://doi.org/10.1038/nmeth.2688)"  _Nature methods_  10.12 (2013): 1213.
 > The original ATAC-seq paper.
 
 ## General advice
@@ -42,10 +42,10 @@
  - Wilson, Greg, et al. "[Best practices for scientific computing.](http://dx.doi.org/10.1371/journal.pbio.1001745)" _PLoS biology_ 12.1 (2014): e1001745.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDEwMzQ2MDgsLTU0MzI4NDc3MywxNz
-AxMTY5OTgxLC03MTgwODAxNTcsMTIxNTU3MTY3NSwtMTM1NjI3
-NDc1OCwtMTkyMDQyMzMyNSwtNTQyOTQ1OTQ0LDEyMzI3ODAzNj
-ksLTE5MzIyNDEyMTQsODM5Nzg0NzgwLC0yMDU4NTgxNjI3LDE3
-MTcxMDU5NjcsNTQ0NTc4MDE0LDEwNzcwNTA4MTcsLTE0MTAxNj
-A1NDksLTE1MDIxMjM1MjZdfQ==
+eyJoaXN0b3J5IjpbMjA0NTk0MjEzMywtNTQzMjg0NzczLDE3MD
+ExNjk5ODEsLTcxODA4MDE1NywxMjE1NTcxNjc1LC0xMzU2Mjc0
+NzU4LC0xOTIwNDIzMzI1LC01NDI5NDU5NDQsMTIzMjc4MDM2OS
+wtMTkzMjI0MTIxNCw4Mzk3ODQ3ODAsLTIwNTg1ODE2MjcsMTcx
+NzEwNTk2Nyw1NDQ1NzgwMTQsMTA3NzA1MDgxNywtMTQxMDE2MD
+U0OSwtMTUwMjEyMzUyNl19
 -->
